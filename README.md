@@ -44,7 +44,7 @@
 <p align="center">
   🐍 Maitrîser le Python 🐍
   <br>
-  💠 Maitrîser le Développement Web (html/css/js/php) 💠
+  💠 Devenir développeur fullstack 💠
   <br>
   🔐 Progresser en Cybersécurité 🔐
   <br>
