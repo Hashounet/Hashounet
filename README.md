@@ -12,6 +12,10 @@
   <br>
   <br>
   <br>
+  <img src="https://cdn.discordapp.com/attachments/875063932702830592/876483155849273404/kiFczG.gif">
+  <br>
+  <br>
+  <br>
   <a href="https://as-blueberry.ml/">🌍 Mon site Web en cours de Développement 🌍</a>
   <br>
   <br>
